@@ -1,0 +1,15 @@
+D:\Programmer\Pro5\bin\Debug\net6.0\Pro5.exe
+D:\Programmer\Pro5\bin\Debug\net6.0\Pro5.deps.json
+D:\Programmer\Pro5\bin\Debug\net6.0\Pro5.runtimeconfig.json
+D:\Programmer\Pro5\bin\Debug\net6.0\Pro5.dll
+D:\Programmer\Pro5\bin\Debug\net6.0\Pro5.pdb
+D:\Programmer\Pro5\obj\Debug\net6.0\Pro5.csproj.AssemblyReference.cache
+D:\Programmer\Pro5\obj\Debug\net6.0\Pro5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmer\Pro5\obj\Debug\net6.0\Pro5.AssemblyInfoInputs.cache
+D:\Programmer\Pro5\obj\Debug\net6.0\Pro5.AssemblyInfo.cs
+D:\Programmer\Pro5\obj\Debug\net6.0\Pro5.csproj.CoreCompileInputs.cache
+D:\Programmer\Pro5\obj\Debug\net6.0\Pro5.dll
+D:\Programmer\Pro5\obj\Debug\net6.0\refint\Pro5.dll
+D:\Programmer\Pro5\obj\Debug\net6.0\Pro5.pdb
+D:\Programmer\Pro5\obj\Debug\net6.0\Pro5.genruntimeconfig.cache
+D:\Programmer\Pro5\obj\Debug\net6.0\ref\Pro5.dll

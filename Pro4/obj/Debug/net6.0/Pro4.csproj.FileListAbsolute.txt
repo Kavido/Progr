@@ -1,0 +1,15 @@
+D:\Programmer\Pro4\bin\Debug\net6.0\Pro4.exe
+D:\Programmer\Pro4\bin\Debug\net6.0\Pro4.deps.json
+D:\Programmer\Pro4\bin\Debug\net6.0\Pro4.runtimeconfig.json
+D:\Programmer\Pro4\bin\Debug\net6.0\Pro4.dll
+D:\Programmer\Pro4\bin\Debug\net6.0\Pro4.pdb
+D:\Programmer\Pro4\obj\Debug\net6.0\Pro4.csproj.AssemblyReference.cache
+D:\Programmer\Pro4\obj\Debug\net6.0\Pro4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmer\Pro4\obj\Debug\net6.0\Pro4.AssemblyInfoInputs.cache
+D:\Programmer\Pro4\obj\Debug\net6.0\Pro4.AssemblyInfo.cs
+D:\Programmer\Pro4\obj\Debug\net6.0\Pro4.csproj.CoreCompileInputs.cache
+D:\Programmer\Pro4\obj\Debug\net6.0\Pro4.dll
+D:\Programmer\Pro4\obj\Debug\net6.0\refint\Pro4.dll
+D:\Programmer\Pro4\obj\Debug\net6.0\Pro4.pdb
+D:\Programmer\Pro4\obj\Debug\net6.0\Pro4.genruntimeconfig.cache
+D:\Programmer\Pro4\obj\Debug\net6.0\ref\Pro4.dll
